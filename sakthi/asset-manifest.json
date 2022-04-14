@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ReactAppProject/sakthi/static/css/main.e3a7bbfb.css",
+    "main.js": "/ReactAppProject/sakthi/static/js/main.7f8cfb82.js",
+    "static/js/695.e766fd75.chunk.js": "/ReactAppProject/sakthi/static/js/695.e766fd75.chunk.js",
+    "static/css/386.b8e89946.chunk.css": "/ReactAppProject/sakthi/static/css/386.b8e89946.chunk.css",
+    "static/js/386.c106ea14.chunk.js": "/ReactAppProject/sakthi/static/js/386.c106ea14.chunk.js",
+    "static/js/787.4f0a6fb5.chunk.js": "/ReactAppProject/sakthi/static/js/787.4f0a6fb5.chunk.js",
+    "static/media/cloud.png": "/ReactAppProject/sakthi/static/media/cloud.aad5424153b3c2e68a17.png",
+    "static/media/imghome.jpeg": "/ReactAppProject/sakthi/static/media/imghome.4596a9f1a7f408eb6590.jpeg",
+    "static/media/img1.png": "/ReactAppProject/sakthi/static/media/img1.bef297f81da57125500a.png",
+    "index.html": "/ReactAppProject/sakthi/index.html",
+    "main.e3a7bbfb.css.map": "/ReactAppProject/sakthi/static/css/main.e3a7bbfb.css.map",
+    "main.7f8cfb82.js.map": "/ReactAppProject/sakthi/static/js/main.7f8cfb82.js.map",
+    "695.e766fd75.chunk.js.map": "/ReactAppProject/sakthi/static/js/695.e766fd75.chunk.js.map",
+    "386.b8e89946.chunk.css.map": "/ReactAppProject/sakthi/static/css/386.b8e89946.chunk.css.map",
+    "386.c106ea14.chunk.js.map": "/ReactAppProject/sakthi/static/js/386.c106ea14.chunk.js.map",
+    "787.4f0a6fb5.chunk.js.map": "/ReactAppProject/sakthi/static/js/787.4f0a6fb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3a7bbfb.css",
+    "static/js/main.7f8cfb82.js"
+  ]
+}
